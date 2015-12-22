@@ -1,0 +1,32 @@
+body {
+	background-color: #369;
+}
+
+h1 {
+	font-family: 'Lato';
+	color: white;
+	width: 80%;
+	text-align: center;
+	margin-left: 10%;
+	padding-bottom: 50px;
+	padding-top: 25px;
+}
+
+#output{
+	font-family: 'PT sans';
+	margin-left: 10px;
+}
+
+button {
+	padding: 10px 25px;
+	border-radius: 2px;
+	border-color: #369;
+	font-size: 14px;
+}
+
+.answer {
+	background-color: white;
+	padding: 3%;
+	width: 80%;
+	margin-left: 10%;
+}
